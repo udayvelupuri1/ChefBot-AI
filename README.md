@@ -100,5 +100,4 @@ Created with ❤️ by Uday
 📧 [velupuriudaykumar@gmail.com](mailto:velupuriudaykumar@gmail.com)
 🌐 [udaykumarv.vercel.app](https://udaykumarv.vercel.app/)
 
-```
 
