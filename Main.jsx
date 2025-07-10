@@ -75,6 +75,7 @@ export default function Main() {
         />
         <button type="submit">Add ingredient</button>
       </form>
+      <center><p>Add atleast 4 ingredients</p></center>
 
       {/* Show ingredients list and Get Recipe button if there are any ingredients */}
       {ingredients.length > 0 && (
