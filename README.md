@@ -96,16 +96,9 @@ MIT License
 
 ## 📬 Contact
 
-Created with ❤️ by \[Your Name]
+Created with ❤️ by Uday
 📧 [velupuriudaykumar@gmail.com](mailto:velupuriudaykumar@gmail.com)
 🌐 [udaykumarv.vercel.app](https://udaykumarv.vercel.app/)
 
 ```
 
----
-
-Let me know if you'd like me to include:
-- Deployment instructions (e.g. for Netlify, Vercel)
-- A logo or banner for the top
-- Custom badges (e.g. React version, license, etc.)
-```
